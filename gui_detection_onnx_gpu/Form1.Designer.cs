@@ -104,7 +104,7 @@
             Controls.Add(button1);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Makers - YOLOv8 Object Detection Onnx GPU";
+            Text = "Makers - YOLOv11 Object Detection Onnx GPU";
             Shown += Form1_Shown;
             Resize += Form1_Resize;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
